@@ -68,7 +68,7 @@ export default function Reviews() {
         </div>
         
         <div className="mt-16 text-center">
-          <a href="#" className="inline-flex items-center gap-2 text-navy-deep font-bold uppercase tracking-wider text-sm hover:text-aqua transition-colors">
+          <a href="https://www.google.com/maps?ll=30.228693,-97.745243&z=13&t=m&hl=en&gl=US&mapclient=embed&cid=5649556640715013138" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 text-navy-deep font-bold uppercase tracking-wider text-sm hover:text-aqua transition-colors">
             Read more reviews on Google <span aria-hidden="true">&#8594;</span>
           </a>
         </div>

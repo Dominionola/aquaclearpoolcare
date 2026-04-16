@@ -50,7 +50,7 @@ export default function Footer() {
               <li>Mon - Fri: 8:00 AM - 6:00 PM</li>
               <li><a href="https://www.instagram.com/aquaclearpoolcare" target="_blank" rel="noopener noreferrer" className="hover:text-aqua transition-colors">Instagram</a></li>
               <li><a href="https://www.facebook.com/aquaclearpoolcare" target="_blank" rel="noopener noreferrer" className="hover:text-aqua transition-colors">Facebook</a></li>
-              <li><a href="https://g.page/r/aquaclearpoolcare/review" target="_blank" rel="noopener noreferrer" className="hover:text-aqua transition-colors">Google Reviews</a></li>
+              <li><a href="https://www.google.com/maps?ll=30.228693,-97.745243&z=13&t=m&hl=en&gl=US&mapclient=embed&cid=5649556640715013138" target="_blank" rel="noopener noreferrer" className="hover:text-aqua transition-colors">Google Reviews</a></li>
             </ul>
             <div className="text-xs space-y-2 opacity-60">
               <p>Part of the Sunniva family of brands</p>
